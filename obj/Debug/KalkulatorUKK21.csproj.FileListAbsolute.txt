@@ -1,0 +1,10 @@
+D:\PEMROGRAMAN - KK3\KalkulatorUKK21\bin\Debug\KalkulatorUKK21.exe.config
+D:\PEMROGRAMAN - KK3\KalkulatorUKK21\bin\Debug\KalkulatorUKK21.exe
+D:\PEMROGRAMAN - KK3\KalkulatorUKK21\bin\Debug\KalkulatorUKK21.pdb
+D:\PEMROGRAMAN - KK3\KalkulatorUKK21\obj\Debug\KalkulatorUKK21.csprojAssemblyReference.cache
+D:\PEMROGRAMAN - KK3\KalkulatorUKK21\obj\Debug\KalkulatorUKK21.Form1.resources
+D:\PEMROGRAMAN - KK3\KalkulatorUKK21\obj\Debug\KalkulatorUKK21.Properties.Resources.resources
+D:\PEMROGRAMAN - KK3\KalkulatorUKK21\obj\Debug\KalkulatorUKK21.csproj.GenerateResource.cache
+D:\PEMROGRAMAN - KK3\KalkulatorUKK21\obj\Debug\KalkulatorUKK21.csproj.CoreCompileInputs.cache
+D:\PEMROGRAMAN - KK3\KalkulatorUKK21\obj\Debug\KalkulatorUKK21.exe
+D:\PEMROGRAMAN - KK3\KalkulatorUKK21\obj\Debug\KalkulatorUKK21.pdb
